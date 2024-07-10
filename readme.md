@@ -1,1 +1,1 @@
-#Repository for training related work
+## Repository for data visualisation training related work
