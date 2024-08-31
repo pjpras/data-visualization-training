@@ -1,0 +1,7 @@
+Gender,State_names,Age,Marital_status,Payment_method,Amount_spent,Salary
+Female,New York,25,Married,Credit Card,200,10000
+Male,California,30,Single,Debit Card,150,15000
+Female,New York,22,Married,Cash,180,12000
+Female,Texas,40,Single,Credit Card,220,13000
+Male,New York,35,Married,Cash,170,14000
+Female,New York,29,Married,Debit Card,200,11000

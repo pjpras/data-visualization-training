@@ -1,0 +1,15 @@
+Region,Manager,SalesMan,Item,Units Sold,Sale Amount
+East,John Doe,Alice,Item A,120,1500
+East,John Doe,Bob,Item B,110,2000
+West,Jane Smith,Charlie,Item A,90,1800
+West,Jane Smith,Danny,Item C,100,2200
+North,Michael Brown,Eve,Item B,130,1700
+South,Lucy Grey,Frank,Item A,85,1250
+East,John Doe,Alice,Item B,75,1000
+West,Jane Smith,Danny,Item C,95,2100
+North,Michael Brown,Eve,Item A,120,1600
+South,Lucy Grey,Frank,Item C,110,2400
+East,John Doe,Bob,Item A,100,1400
+West,Jane Smith,Charlie,Item B,85,1300
+North,Michael Brown,Eve,Item C,115,2000
+South,Lucy Grey,Frank,Item B,105,1900
